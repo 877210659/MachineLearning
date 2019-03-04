@@ -25,4 +25,5 @@ def model(filename):
     print(['Predicted price of a 1650 sq-ft, 3 br house '
            '(using gradient descent): '], price);
 
+
 model("ex1data2.txt")

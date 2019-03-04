@@ -174,4 +174,4 @@ def multi_variable_model(filename):
 
 
 
-multi_variable_model("ex1data2.txt")
+one_variable_model("ex1data1.txt")
